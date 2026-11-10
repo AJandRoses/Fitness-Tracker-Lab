@@ -10,3 +10,7 @@ Currently only has RunningWorkout as a Workout type.
 
 ## Code Review
 - **Reviewed by:** Nicholas Cheng
+
+## Code Review
+- **Reviewed by:** Daniel Arendt
+- **Status:** Checked code. Inheritance (`extends`), Scanner input, and calorie calculations are all correct and working!
